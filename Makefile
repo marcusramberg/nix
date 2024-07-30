@@ -23,6 +23,7 @@ makefiles = \
   src/nix/local.mk \
   src/libutil-c/local.mk \
   src/libstore-c/local.mk \
+  src/libmain-c/local.mk \
   src/libexpr-c/local.mk
 
 ifdef HOST_UNIX
